@@ -1,0 +1,1 @@
+print("Simple hello message from Python")
